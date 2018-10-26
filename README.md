@@ -11,4 +11,4 @@ Dans le 2nd terminale dans le dossier MSII_Examen_JNA\BackEnd:
 # excuté la commande node .
 
 Dans le 3eme terminale dans le dossier MSII_Examen_JNA\BrokerMqtt:
-# excuté la commande node client.js
+# excuté la commande node .
